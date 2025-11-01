@@ -1,2 +1,0 @@
-let a=[{name:"Artem",age:16},{name:"Maria",age:18},{name:"Ivan",age:20},{name:"Olga",age:22},{name:"Dmytro",age:17},{name:"Sofia",age:19},{name:"Andrii",age:21},{name:"Kateryna",age:23},{name:"Oleh",age:24},{name:"Nazar",age:25}];a.forEach(a=>{a.id=((a=21)=>{let e="",n=crypto.getRandomValues(new Uint8Array(a|=0));for(;a--;)e+="useandom-26T198340PX75pxJACKVERYMINDBUSHWOLF_GQZbfghjklqvwyzrict"[63&n[a]];return e})(10)}),console.log(a);
-//# sourceMappingURL=bibliotec.f791c313.js.map
